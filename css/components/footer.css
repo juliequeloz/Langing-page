@@ -1,0 +1,20 @@
+.footer{
+  background-color:#2c2b2b;
+  padding:80px;
+  text-align:center;
+}
+.footer ul{
+  padding-left:0;
+}
+
+.footer li{
+  display:inline-block;
+  font-size:40px;
+  padding:20px;
+  color:aquamarine;
+}
+
+.footer p{
+  color:#e7e7e7;
+  font-size:18px;
+}
